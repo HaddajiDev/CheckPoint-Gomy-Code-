@@ -1,0 +1,29 @@
+Section 1:
+1 - Web development is making and managing websites. It's important for the internet because it allows us to create interactive and useful online stuff.
+
+2 - Yes i did heard of HTML... HTML Stands for "HyperText Markup" and it helps organize and show content on the internet.
+
+Section 2:
+1 - yes im famliar with CSS.. CSS is used to make websites look good by styling and formatting the content, like changing colors, fonts, and layout.
+
+Section 3:
+1 - Yes i did heard of JavaScript... JavaScript is a coding language...JavaScript makes websites interactive, adding features like dynamic updates and user input handling
+
+Section 4:
+1 - No im not familiar with React and Node.js
+
+Section 5
+1 - I want to learn web development to create interactive websites. By mastering HTML, CSS, JavaScript, React, and Node.js, I aim to build user-friendly and dynamic web applications.
+
+
+
+
+
+
+
+
+
+	
+
+
+
